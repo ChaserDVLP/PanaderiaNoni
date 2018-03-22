@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Panadería Noni</string>
+    <string name="action_sign_in_short">Registrarse</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">¡La contraseña es demasiado corta, introduzca un mínimo de 6 caracteres!</string>
+    <string name="auth_failed">La Autenticación ha fallado, compruebe su email y contraseña, restaure su contraseña o Regístrese.</string>
+    <string name="change_email">Cambiar Email</string>
+    <string name="change_password">Cambiar Contraseña</string>
+    <string name="send_password_reset_email">Se ha enviado un email para reiniciar su contraseña.</string>
+    <string name="remove_user">Eliminar usuario</string>
+    <string name="new_pass">Nueva contraseña</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">INICIAR SESIÓN</string>
+    <string name="btn_link_to_register">¿Todavía no es miembro? ¡Regístrese ahora!</string>
+    <string name="btn_link_to_login">Ya estoy registrado ¡Conectarme!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">¿Ha olvidado su contraseña?</string>
+    <string name="btn_reset_password">Restablecer Contraseña</string>
+    <string name="btn_back"><![CDATA[<< Atrás]]></string>
+    <string name="hint_new_email">Nuevo Email</string>
+    <string name="btn_change">Cambiar</string>
+    <string name="btn_send">Enviar</string>
+    <string name="btn_remove">Eliminar</string>
+    <string name="btn_sign_out">Cerrar Sesión</string>
+    <string name="lbl_forgot_password">¿Ha olvidado su contraseña?</string>
+    <string name="forgot_password_msg">Introduzca su email y le enviaremos un email con las instrucciones.</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="facebook_app_id">1612517838838154</string>
+    <string name="fb_login_protocol_scheme">fb1612517838838154</string>
+    <string name="twitter_consumer_key" translatable="false">DPbXsJgEaiwCnCENSz33uIp75</string>
+    <string name="twitter_consumer_secret" translatable="false">ufOU8tlJuU5OaI8cQgQs2yOsrhcOlt4SmputoD6rOxPZu3O98O</string>
+    <string name="title_activity_splashscreen">SplashScreenActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_borrar">Map</string>
+    <string name="title_activity_pan_medida">PanMedidaActivity</string>
+    <string name="title_activity_pantalla_compra">PantallaCompraActivity</string>
+</resources>
